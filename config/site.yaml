@@ -1,5 +1,5 @@
 business_name: "North County Mobile Auto Diagnostics"
-twilio_number: "(760) 555-0299"
+twilio_number: "(760) 477-4130"
 city: "North County"
 state: "CA"
 subniche: "mobile auto diagnostics"
@@ -23,7 +23,7 @@ service_area_cities:
   - Encinitas
   - Valley Center
   - Fallbrook
-phone_visible: "(760) 555-0299"
-phone_href: "tel:+17605550299"
-phone_e164: "+1-760-555-0299"
+phone_visible: "(760) 477-4130"
+phone_href: "tel:+17604774130"
+phone_e164: "+1-760-477-4130"
 domain: "https://mobile-diag-northcounty.netlify.app"
