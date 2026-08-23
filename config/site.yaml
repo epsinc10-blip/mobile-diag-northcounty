@@ -1,0 +1,29 @@
+business_name: "North County Mobile Auto Diagnostics"
+twilio_number: "(760) 555-0299"
+city: "North County"
+state: "CA"
+subniche: "mobile auto diagnostics"
+geo_target: "North County San Diego"
+region: "North County San Diego"
+service_area:
+  - Escondido
+  - San Marcos
+  - Vista
+  - Oceanside
+  - Carlsbad
+  - Encinitas
+  - Valley Center
+  - Fallbrook
+service_area_cities:
+  - Escondido
+  - San Marcos
+  - Vista
+  - Oceanside
+  - Carlsbad
+  - Encinitas
+  - Valley Center
+  - Fallbrook
+phone_visible: "(760) 555-0299"
+phone_href: "tel:+17605550299"
+phone_e164: "+1-760-555-0299"
+domain: "https://mobile-diag-northcounty.netlify.app"

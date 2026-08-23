@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://mobile-diag-northcounty.netlify.app/sitemap.xml
