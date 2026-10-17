@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mobile-diag-northcounty.netlify.app/</loc>
+    <loc>https://northcountymobilediagnostics.com/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://mobile-diag-northcounty.netlify.app/services.html</loc>
+    <loc>https://northcountymobilediagnostics.com/services.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://mobile-diag-northcounty.netlify.app/about.html</loc>
+    <loc>https://northcountymobilediagnostics.com/about.html</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://mobile-diag-northcounty.netlify.app/areas.html</loc>
+    <loc>https://northcountymobilediagnostics.com/areas.html</loc>
     <priority>0.8</priority>
   </url>
 </urlset>
